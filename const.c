@@ -1,4 +1,5 @@
 #include<stdio.h>
+//en vez de usar #define PI 3.141592
   const double PI = 3.141592;
   int main(){
     double area;
